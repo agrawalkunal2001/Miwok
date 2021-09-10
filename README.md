@@ -7,6 +7,8 @@ They include some numbers, family members, colors and phrases. Every translation
 
 Each category is scrollable.
 
+(Download the APK file to test the app)
+
 ## Initial or home screen of the app =>
 
 ![Home screen](https://user-images.githubusercontent.com/77429521/132100911-a4894d3c-64db-4f5c-942f-3c77c349c241.jpg)
